@@ -52,3 +52,15 @@
       </article>
     </section>
   </main>
+  <footer>
+    <details>
+      <summary>Integrantes</summary>
+      <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li>Facundo Di Marco</li>
+      </ul>
+    </details>
+  </footer>
