@@ -6,7 +6,7 @@
       <h3 align = "center"> 📍TP N°1 – Conversion de velocidades</h3>
       <article>
         <details>
-          <summary>Consignas</summary>
+          <summary><u>Consignas</u></summary>
           <p>
             <strong>a.</strong>Se quiere un programa que arme una tabla de equivalencia de velocidades, entre nudos y 
             kilómetros por hora. Los valores que la tabla debe convertir se indican con parámetros al 
