@@ -56,10 +56,10 @@
     <details>
       <summary>Integrantes</summary>
       <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>Franco Pacheco</li>
+        <li>Valentino Talotti</li>
+        <li>MatÍas Zuran</li>
+        <li>Gabriel Litwin Batista</li>
         <li>Facundo Di Marco</li>
       </ul>
     </details>
